@@ -1,0 +1,6 @@
+@Peeks_HostAddress = http://localhost:5010
+
+GET {{Peeks_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Peeks", "Peeks.csproj", "{69B2CBB6-4832-4CB1-978B-E1D3A98F1540}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatClients", "..\ChatClients\ChatClients.csproj", "{575D531C-4F07-4532-9294-5CC8D2721571}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69B2CBB6-4832-4CB1-978B-E1D3A98F1540}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69B2CBB6-4832-4CB1-978B-E1D3A98F1540}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69B2CBB6-4832-4CB1-978B-E1D3A98F1540}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69B2CBB6-4832-4CB1-978B-E1D3A98F1540}.Release|Any CPU.Build.0 = Release|Any CPU
+		{575D531C-4F07-4532-9294-5CC8D2721571}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{575D531C-4F07-4532-9294-5CC8D2721571}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{575D531C-4F07-4532-9294-5CC8D2721571}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{575D531C-4F07-4532-9294-5CC8D2721571}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98865DA8-1D68-4EF7-8D05-C84652CA3909}
+	EndGlobalSection
+EndGlobal
