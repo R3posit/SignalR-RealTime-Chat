@@ -20,7 +20,7 @@ A **real-time chat application** built with **ASP.NET Framework and SignalR**.
 
 1️⃣ **Clone the repository:**
 ```sh
- git clone https://github.com/yourusername/SignalR-RealTime-Chat.git
+ git clone https://github.com/R3posit/SignalR-RealTime-Chat.git
 ```
 
 2️⃣ **Navigate to the project directory:**
